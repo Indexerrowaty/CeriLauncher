@@ -56,7 +56,7 @@ String translate(text) {
       return "Du kannst es später noch ändern";
 
     case "Please choose an option to continue":
-      return "Bitte wähle eine Option zum fortfahren";
+      return "Bitte wähle eine Option zum Fortfahren";
 
     case "Choose your layout":
       return "Wähle dein Layout";
@@ -125,7 +125,7 @@ String translate(text) {
     case "Please consider joining":
       return "Bitte denke darüber nach, beizutreten";
     case "the Ceri Launcher subreddit":
-      return "dem Ceri Launcher subreddit";
+      return "dem Ceri Launcher Subreddit";
     case "or sending me an email with your thoughts.":
       return "oder sende mir eine Email mit deinen Vorschlägen";
     case "I'd appreciate it a lot!":
@@ -149,7 +149,7 @@ String translate(text) {
       return "Ziehe runter zum Suchen";
 
     case "Long-press an app for options":
-      return "Halte eine App gedrückt für Optionen";
+      return "Halte eine App für Optionen gedrückt";
 
     case "Close":
       return "Schließen";
