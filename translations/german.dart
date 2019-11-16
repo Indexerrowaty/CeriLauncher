@@ -360,7 +360,7 @@ String translate(text) {
     case "(experimental:":
       return "(Experimentell:";
     case "Dim apps that aren't in favorites":
-      return "Verdunkle Apps die nicht Favoriten sind";
+      return "Verdunkle Apps, die nicht Favoriten sind";
 
     case "Nothing set":
       return "Nichts gesetzt";
@@ -435,7 +435,7 @@ String translate(text) {
     case "Nothing":
       return "Nichts";
     case "Light analog clock widget":
-      return "Helles analoges Uhr Widget";
+      return "Helles Analoges Uhr Widget";
     case "by NPKompleet, The CS Guy and Ali Sayed":
       return "von NPKompleet, The CS Guy und Ali Sayed";
     case "Dark analog clock widget":
@@ -494,7 +494,7 @@ String translate(text) {
     case "Good evening":
       return "Guten Abend";
     case "Sleep well":
-      return "Schlag Gut";
+      return "Schlaf Gut";
   }
 
   return text; // return original text if no translation found
