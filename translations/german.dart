@@ -167,10 +167,10 @@ String translate(text) {
       return "Von Favoriten entfernen";
 
     case "Add back to homescreen":
-      return "Wieder zum Homescreen hinzufügen";
+      return "Wieder zum Startbildschirm hinzufügen";
 
     case "Hide from homescreen":
-      return "Auf dem Homescreen verstecken";
+      return "Auf dem Startbildschirm verstecken";
 
     case "Application info":
       return "App Informationen";
@@ -280,7 +280,7 @@ String translate(text) {
     case "Email developer":
       return "Email den Entwickler";
     case "Have an issue or suggestion? Really enjoying Ceri Launcher? I try to reply within a few hours ::":
-      return "Du hast ein Problem oder einen Vorschlag? Du bist sehr zufrieden mit dem Ceri Launcher? I antworte innerhalb von einigen Stunden ::";
+      return "Du hast ein Problem oder einen Vorschlag? Du bist sehr zufrieden mit dem Ceri Launcher? Ich antworte innerhalb von einigen Stunden ::";
 
     case "Change language":
       return "Sprache wechseln";
