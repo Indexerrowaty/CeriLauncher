@@ -10,133 +10,133 @@ String translate(text) {
     case "getting app info":
       return "正在获取应用信息";
     case "loading page":
-      return "正在载入界面";
+      return "正在加载页面";
     case "loading preferences":
-      return "正在载入首选项";
+      return "正在加载配置";
     case "loading settings":
-      return "正在载入设置项";
+      return "正在加载设置";
 
     //
     // ----- SETUP -----
     //
 
-    case "欢迎来到":
-      return ;
+    case "Welcome to":
+      return "欢迎使用";
     case "Ceri Launcher":
-      return "Ceri 启动器";
+      return "Ceri桌面";
 
     case "Swipe left to start":
-      return "向左滑动即可开始";
+      return "左滑！让我们开始吧";
 
     case "Select language":
       return "选择语言";
 
     case "All languages (other than English) are translated by the community. Some translations may be incorrect or missing.":
-      return "所有语言（除了英语）均由社区提供翻译，如有不妥之处，尽请谅解。";
+      return "网友提供翻译，不足之处，敬请谅解。";
 
     case "More languages coming soon":
-      return "将会支持更多语言";
+      return "更多语言，敬请期待";
 
     case "Choose your style":
-      return "选择你的风格";
+      return "选择样式 ";
 
     case "Choose style":
-      return "选择风格";
+      return "样式设置";
 
     case "All apps":
       return "全部应用";
 
     case "Only favorites":
-      return "仅喜欢的应用";
+      return "仅收藏";
 
     case "Tray":
-      return "托盘模式";
+      return "托盘样式";
 
     case "You can always change this later":
-      return "您以后可以随时更改";
+      return "可在设置中进行更改";
 
     case "Please choose an option to continue":
-      return "请选择其中一个选项以继续";
+      return "选择一项配置以继续";
 
     case "Choose your layout":
-      return "选择您的布局";
+      return "选择桌面布局";
 
     case "Choose layout":
-      return "选择布局";
+      return "桌面布局";
 
     case "Grid":
-      return "格线";
+      return "宫格";
 
     case "Honeycomb":
-      return "蜂巢";
+      return "蜂窝";
 
     case "Choose your Ceri widget":
-      return "选择您的 Ceri 挂件";
+      return "选择你的Ceri挂件";
 
     case "Choose Ceri widget":
-      return "选择 Ceri 挂件";
+      return "选择Ceri挂件";
 
     case "None":
       return "无";
 
     case "Light analog":
-      return "明亮模拟时钟";
+      return "白色时钟";
 
     case "Dark analog":
-      return "黑暗模拟时钟";
+      return "暗色时钟";
 
     case "Digital":
-      return "电子时钟";
+      return "数字";
 
     case "Assistant":
-      return "助手时钟";
+      return "助手";
 
     case "User widget":
-      return "自定义时钟";
+      return "应用挂件";
 
     case "Choose your package":
-      return "选择你的包";
+      return "选择安装包";
 
     case "I'm an 18-year-old UK maths student trying to save money to study Cyber Security at university.":
-      return "我是一名 18 岁的数学系学生，我来自英国，我正在攒钱以便在上大学期间能够学习网络安全。";
+      return "我是谁？我今年18岁，来自英国，是一名数学系学生，目前正在努力存钱，打算去大学学习网络安全课程。";
     case "If you want access to all features and you don't mind sparing £2, I would be incredibly grateful!":
-      return "如果您想要体验所有的功能，并且您不介意花费两英镑的话，我将感激不尽！";
+      return "仅需捐赠¥18元，就能解锁Ceri Launcher的全部功能，并且支持我的梦想，谢谢！";
 
     case "Upgrade to pro":
-      return "升级至专业版";
+      return "升级专业版";
     case "Support me and access all current and future features!":
-      return "支持我并获取所有当前以及未来的功能！";
+      return "支持我，解锁全部功能以及后续版本的更新！";
 
     case "Restore purchase":
       return "恢复购买";
     case "Already supported the project?":
-      return "已经支持过此项目？";
+      return "已赞助过此项目？";
 
     case "Stay with free version":
-      return "继续使用免费版本";
+      return "我还是用免费版本吧";
     case "Core functionality will always be free":
-      return "核心功能将会继续保持免费";
+      return "核心功能永久免费";
 
     case "One last thing":
-      return "还有一件事";
+      return "最后的最后";
 
     case "I rely completely on user feedback to help make Ceri Launcher better.":
-      return "我十分依赖用户反馈，以助我将 Ceri 启动器做得更好。";
+      return "你的反馈非常有用，将会帮助我改进Ceri Launcher。";
     case "Please consider joining":
-      return "请考虑加入";
+      return "请在Reddit搜索订阅Ceri Launcher，";
     case "the Ceri Launcher subreddit":
-      return "Ceri 启动器的 reddit 版块";
+      return "加入我们的讨论组";
     case "or sending me an email with your thoughts.":
-      return "或者将您的想法通过邮件发送给我。";
+      return "或者你有什么好点子，请给我发送邮件。";
     case "I'd appreciate it a lot!":
-      return "我会十分感激！";
+      return "非常感谢！";
     case "Hope you enjoy,":
-      return "希望你能够喜欢,";
+      return "希望Ceri Launcher能给你带来不一样的体验！";
 
     case "Tap anywhere":
-      return "点击任意地方";
+      return "点击屏幕";
     case "to see your new home":
-      return "查看您的新主页";
+      return "进入Ceri桌面";
 
     //
     // ----- HOMESCREEN -----
@@ -149,31 +149,31 @@ String translate(text) {
       return "下拉搜索";
 
     case "Long-press an app for options":
-      return "长按一个应用进行更多操作";
+      return "长按可对应用进行设置";
 
     case "Close":
       return "关闭";
 
     case "Opens your Ceri Launcher settings":
-      return "打开您的 Ceri 启动器设置项";
+      return "打开Ceri桌面设置";
 
     case "Ceri Launcher Settings":
-      return "设置 Ceri 启动器";
+      return "Ceri桌面设置";
 
     case "Add to favorites":
-      return "添加至我喜欢的应用";
+      return "添加收藏";
 
     case "Remove from favorites":
-      return "从我喜欢的应用中删除";
+      return "取消收藏";
 
     case "Add back to homescreen":
-      return "添加回主屏幕";
+      return "添加到桌面后返回";
 
     case "Hide from homescreen":
-      return "从主屏幕隐藏";
+      return "隐藏";
 
     case "Application info":
-      return "应用信息";
+      return "应用详情";
 
     case "Uninstall":
       return "卸载";
@@ -183,215 +183,215 @@ String translate(text) {
     //
 
     case "Search the web for":
-      return "从互联网搜索";
+      return "在网络中搜索";
 
     case "Search engine:":
-      return "搜索引擎:";
+      return "搜索引擎";
 
     //
     // ----- SETTINGS -----
     //
 
     case "Set as home":
-      return "设为默认启动器";
+      return "设为默认桌面";
     case "Open default apps menu":
-      return "打开默认应用菜单";
+      return "打开默认桌面设置";
 
     case "Device settings":
       return "系统设置";
     case "Open the standard settings app":
-      return "打开系统设置项";
+      return "打开系统设置";
 
     case "Style":
-      return "风格";
+      return "样式";
     case "Choose style (All apps, Only favorites, Tray), toggle app dimming":
-      return "选择风格（全部应用，仅喜欢的应用，托盘模式），切换应用亮度";
+      return "选择样式（显示全部应用，仅收藏，托盘显示），应用高亮";
 
     case "Wallpapers":
       return "壁纸";
     case "Choose wallpaper, apply dim/vignette":
-      return "选择壁纸，选择渐变或者黑暗风格";
+      return "选择壁纸，应用高亮或弱光";
 
     case "Dark mode":
-      return "黑暗模式";
+      return "深色模式";
     case "True dark mode for OLED devices\n(or #000000 lovers:":
-      return "Amoled 黑暗模式";
+      return "OLED屏幕深色模式或纯黑模式";
 
     case "Configure layout":
-      return "配置布局";
+      return "布局设置";
     case "Standard grid or honeycomb, 2, 3 or 4 columns, customise icon size and padding":
-      return "在标准网格、蜂巢中选择显示2-4列，自定义图标大小和间距";
+      return "标准、蜂窝、2、3、4列，自定义图标大小和间距";
 
     case "Icon style":
-      return "图标风格";
+      return "图标样式";
     case "Icon packs, shape, zoom/crop, shadows":
-      return "图标包，形状，大小，阴影等等";
+      return "图标包、形状、大小或裁剪，阴影";
 
     case "Search options":
-      return "搜索选项";
+      return "搜索设置";
     case "Search icon size, search engine":
-      return "搜索图标大小，搜索引擎";
+      return "搜索列表图标大小，搜索引擎";
 
     case "Configure Ceri widget":
-      return "配置 Ceri 挂件";
+      return "Ceri挂件设置";
     case "Choose Ceri widget, configure padding":
-      return "选择 Ceri 挂件，配置间距";
+      return "选择Ceri挂件以及设置间距";
 
     case "Scrolling animations":
       return "滚动动画";
     case "None, bubble, straight, inwards, outwards, and more":
-      return "无，气泡，直线，向内，向外，以及更多";
+      return "无，气泡，平移，淡入，淡出，以及更多";
 
     case "Notification dots":
-      return "通知计数";
+      return "图标通知角标";
     case "See indications on your homescreen for pending notifications":
-      return "在您的主屏幕查看未读通知计数";
+      return "在桌面显示通知";
 
     case "Gestures":
       return "手势";
     case "Launch apps and actions quickly with side gestures":
-      return "通过边缘手势快速启动应用或者触发动作";
+      return "用手势启动应用或进行操作";
 
     case "Miscellaneous settings":
-      return "杂项设置";
+      return "其他设置";
     case "Warning: Some of these may not have been fully tested":
-      return "警告：其中部分选项可能未经完全测试通过";
+      return "注意：部分功能未经完全测试";
 
     case "Performance options":
-      return "性能选项";
+      return "性能设置";
     case "Experimental settings that may improve performance":
-      return "可能会提高性能的实验性选项";
+      return "实验性功能可改善性能";
 
     case "About Ceri Launcher":
-      return "关于 Ceri 启动器";
+      return "关于Ceri桌面";
     case "Version number, developer info":
-      return "版本号，开发者信息";
+      return "应用版本与开发者信息";
 
     case "Check for updates":
       return "检查更新";
     case "Check for Ceri Launcher updates on the Play Store":
-      return "通过 Play Store 检查更新";
+      return "在谷歌应用商店检查更新";
 
     case "Support and feedback":
-      return "支持和反馈";
+      return "支持与反馈";
     case "Go to the Ceri Launcher subreddit":
-      return "进入 Ceri 启动器的 reddit 版块";
+      return "去Reddit查看Ceri Launcher订阅组";
 
     case "Email developer":
       return "发送邮件给开发者";
     case "Have an issue or suggestion? Really enjoying Ceri Launcher? I try to reply within a few hours ::":
-      return "有一个意见或者提议？真的喜欢 Ceri 启动器？我会尽力在数个小时内回复您 ::";
+      return "有疑问或建议？喜欢Ceri桌面？我将在数小时内回复你";
 
     case "Change language":
       return "更改语言";
     case "Change the language for the Ceri Launcher interface":
-      return "更改 Ceri 启动器的界面语言";
+      return "更改Ceri桌面语言";
 
     case "Add or improve translations":
-      return "增加或者改进语言";
+      return "新增或改进翻译";
     case "Use your language skills to help make Ceri Launcher better. These translations will be added periodically in future updates.":
-      return "使用你的语言技能来帮助 Ceri 启动器变得更好。这些翻译将会定期添加进未来的更新当中。";
+      return "用你的语言帮助我们改善Ceri桌面，我们会在后期的更新中添加这些翻译";
 
     case "Open source licenses":
-      return "开源许可";
+      return "开放源码许可证";
 
     case "Version":
-      return "版本"; // context: "Version 1.7.5-beta" etc.
+      return "版本 1.9.10-测试版"; // context: "Version 1.7.5-beta" etc.
     case "Paid — thanks!":
-      return "已付款-感谢！";
+      return "支付成功，谢谢！";
     case "Free version":
-      return "免费版本";
+      return "免费版";
     case "Your own":
-      return "您拥有的";
+      return "我的";
 
     case "Ceri Wallpapers":
-      return "Ceri 壁纸";
+      return "Ceri壁纸";
     case "Android Home Xperience":
-      return "体验安卓主页";
+      return "安卓桌面壁纸";
     case "Tiles below 'Your own' will open the respective wallpaper album in your browser.":
-      return "点击‘您拥有的’瓷砖下面的瓷砖，将会在浏览器里打开各自的壁纸专辑";
+      return "「带有「我的」的标题选项需从系统中选择壁纸";
     case "Vignette/dim":
-      return "图案明亮度";
+      return "高亮与亮度";
 
     case "Dark mode":
-      return "黑暗模式";
+      return "深色模式";
     case "Standard":
       return "标准模式";
     case "Black (OLED:":
-      return "Amoled 黑暗模式";
+      return "OLED深色模式";
     case "Automatic":
-      return "自动模式";
+      return "自动设置";
     case "Dark mode off":
-      return "关闭黑暗模式";
+      return "深色模式关闭";
     case "Dark mode on":
-      return "打开黑暗模式";
+      return "深色模式打开";
     case "Dark mode enables at night":
-      return "夜间开启黑暗模式";
+      return "在夜晚打开深色模式";
 
     case "Miscellaneous":
-      return "杂项";
+      return "其他设置";
     case "Disable haptics":
-      return "禁止触发";
+      return "关闭触摸反馈";
     case "Show package names in search":
-      return "在搜索结果中显示包名";
+      return "在搜索中显示应用包名";
     case "Disable vignette":
-      return "不现实图案";
+      return "关闭应用高亮";
     case "Disable scrolling beyond screen height":
-      return "禁止滚动超过屏幕高度";
+      return "关闭滑动超出屏幕";
 
     case "2 columns":
-      return "2 行";
+      return "两列";
     case "3 columns":
-      return "3 行";
+      return "三列";
     case "Icon size":
       return "图标大小";
     case "Icon padding":
       return "图标间距";
     case "Standard grid layout":
-      return "标准网格布局";
+      return "标准宫格布局";
     case "Honeycomb layout":
-      return "蜂巢布局";
+      return "蜂窝布局";
     case "Favorites stay at the top":
-      return "在顶部保持最喜欢的应用";
+      return "收藏应用置顶";
     case "Just your favorites, nothing else":
-      return "只显示最喜欢的应用";
+      return "仅展示收藏";
     case "Automatically show your most used apps only":
-      return "自动显示您最常使用的应用";
+      return "自动展示常用应用";
     case "(experimental:":
-      return "（实验性：";
+      return "（实验功能：";
     case "Dim apps that aren't in favorites":
-      return "暗淡显示不是最喜欢的应用";
+      return "弱化显示非收藏应用";
 
     case "Nothing set":
-      return "什么都没设置";
+      return "未作出任何设置";
     case "Select package":
-      return "选择包";
+      return "选择应用程序";
     case "Actions will be launchable with gestures in an upcoming update.":
-      return "在即将到来的版本中动作将可以被手势触发";
+      return "未来的更新中将增加手势操作";
     case "Search":
       return "搜索";
 
     case "No icon packs found.":
-      return "没有图标包被选中。";
+      return "未找到图标包";
     case "None (default:":
-      return "没有（默认：";
+      return "无（默认：";
     case "Select icon pack":
       return "选择图标包";
     case "If you have an icon pack installed, choose it here":
-      return "如果你安装了一个图标包，可以在这里选择它";
+      return "在此选择已安装的图标包";
 
     case "Corner radius":
-      return "圆角半径";
+      return "圆角大小";
     case "Zoom/crop":
-      return "缩放裁剪";
+      return "大小和裁剪";
     case "Shadows (off:":
       return "阴影（关闭：";
     case "Shadows (subtle:":
-      return "阴影（细微：";
+      return "阴影（轻：";
     case "Shadows (heavy:":
-      return "阴影（浓重：";
+      return "阴影（重：";
     case "Shadows (heavier:":
-      return "阴影（更加浓重：";
+      return "阴影（较重：";
 
     case "App icon size":
       return "应用图标大小";
@@ -399,49 +399,49 @@ String translate(text) {
     case "Animation strength":
       return "动画强度";
     case "disabled":
-      return "禁止";
+      return "已禁用";
     case "weak":
       return "弱";
     case "normal":
-      return "一般";
+      return "正常";
     case "strong":
       return "强";
     case "strongest":
-      return "最强";
+      return "极强";
 
     case "These are EXPERIMENTAL settings to try out if you suffer from poor performance or extreme battery drain when using Ceri Launcher.":
-      return "这是 Ceri 启动器的实验性功能，可能在使用的时候遇到性能不佳或者电池损耗严重的情况。";
+      return "若出现耗电或卡顿现象，可启用实验功能进行改进";
     case "If you are not having issues with performance it is recommended that you leave these at their defaults.":
-      return "如果您没有遇到性能上的问题，请保持此选项为默认设置。";
+      return "若性能设置后未出现问题，建议不要再进行改动";
     case "Icon render size":
       return "图标渲染大小";
     case "Default is 192. Smaller values should result in lower RAM usage (at the expense of image quality:.":
-      return "默认值为192。数值越小，占用的 RAM 使用量也就越小（跟图像质量成正比）。";
+      return "默认值：192。值较小可减少内存消耗（但会降低图片质量：";
     case "EXAMPLE":
-      return "示例";
+      return "例子";
     case "Remove icons out of frame":
-      return "删除框架外的图标";
+      return "裁剪图标中超出框架的部分";
     case "Disable antialiasing":
-      return "关闭抗锯齿";
+      return "禁用抗锯齿";
     case "Force icon caching":
-      return "强制更新图标缓存";
+      return "强制使用图标缓存";
 
     case "Ceri Launcher utilizes the works of these people:":
-      return "Ceri 启动器引用了这些人的作品：";
+      return "这些人的工作对Ceri Launcher有很大的帮助：：";
 
     case "EXPERIMENTAL.":
-      return "实验性";
+      return "实验功能。";
 
     case "Nothing":
-      return "无";
+      return "空";
     case "Light analog clock widget":
-      return "明亮模拟时钟";
+      return "浅色模拟时钟";
     case "by NPKompleet, The CS Guy and Ali Sayed":
-      return text;
+      return "by NPKompleet，Ali Sayed以及服务端开发者";
     case "Dark analog clock widget":
-      return "黑暗模拟时钟";
+      return "深色模拟时钟";
     case "Digital clock":
-      return "电子时钟";
+      return "数字时钟";
 
     //
     // ----- WIDGETS -----
@@ -463,38 +463,38 @@ String translate(text) {
       return "星期日";
 
     case "January":
-      return "一月";
+      return "1月";
     case "February":
-      return "二月";
+      return "2月";
     case "March":
-      return "三月";
+      return "3月";
     case "April":
-      return "四月";
+      return "4月";
     case "May":
-      return "五月";
+      return "5月";
     case "June":
-      return "六月";
+      return "6月";
     case "July":
-      return "七月";
+      return "7月";
     case "August":
-      return "八月";
+      return "8月";
     case "September":
-      return "九月";
+      return "9月";
     case "October":
-      return "十月";
+      return "10月";
     case "November":
-      return "十一月";
+      return "11月";
     case "December":
-      return "十二月";
+      return "12月";
 
     case "Good morning":
-      return "早上好";
+      return "早上好！";
     case "Good afternoon":
-      return "中午好";
+      return "下午好！";
     case "Good evening":
-      return "晚上好";
+      return "晚上好！";
     case "Sleep well":
-      return "晚安好梦";
+      return "晚安，好梦！";
   }
 
   return text; // return original text if no translation found
