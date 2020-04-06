@@ -8,436 +8,429 @@ String translate(text) {
     //
 
     case "getting app info":
-      return text;
+      return "uzyskiwanie informacji o aplikacji";
     case "loading page":
-      return text;
+      return "ładowanie strony";
     case "loading preferences":
-      return text;
+      return "ładowanie preferencji";
     case "loading settings":
-      return text;
+      return "ładowanie ustawien";
 
     //
     // ----- SETUP -----
     //
 
     case "Welcome to":
-      return text;
+      return "Witamy w";
     case "Ceri Launcher":
-      return text;
+      return "Ceri Launcher";
 
     case "Swipe left to start":
-      return text;
+      return "Przesuń w lewo by rozpocząć";
 
     case "Select language":
-      return text;
+      return "Wybierz język";
 
     case "All languages (other than English) are translated by the community. Some translations may be incorrect or missing.":
-      return text;
+      return "Wszystkie języki (poza angielskim) są tłumaczone przez społeczność. Niektóre translacje mogą zawierać błędy lub braki";
 
     case "More languages coming soon":
-      return text;
+      return "Więcej języków wkrótce";
 
     case "Choose your style":
-      return text;
+      return "Wybierz swój styl";
 
     case "Choose style":
-      return text;
+      return "Wybierz styl";
 
     case "All apps":
-      return text;
+      return "Wszystkie aplikacje";
 
     case "Only favorites":
-      return text;
+      return "Tylko ulubione";
 
     case "Tray":
-      return text;
+      return "Dolna Tacka";
 
     case "You can always change this later":
-      return text;
+      return "Zawsze możesz to później zmienić";
 
     case "Please choose an option to continue":
-      return text;
+      return "Wybierz daną opcje by kontynuować";
 
     case "Choose your layout":
-      return text;
+      return "Wybierz swój układ";
 
     case "Choose layout":
-      return text;
+      return "Wybierz układ";
 
     case "Grid":
-      return text;
+      return "Krata";
 
     case "Honeycomb":
-      return text;
+      return "Plaster miodu";
 
     case "Choose your Ceri widget":
-      return text;
+      return "Wybierz swój widżet Ceri";
 
     case "Choose Ceri widget":
-      return text;
+      return "Wybierz widżet Ceri";
 
     case "None":
-      return text;
+      return "Brak";
 
     case "Light analog":
-      return text;
+      return "Lekki analogowy";
 
     case "Dark analog":
-      return text;
+      return "Ciemny analogowy";
 
     case "Digital":
-      return text;
+      return "Cyfrowy";
 
     case "Assistant":
-      return text;
+      return "Asystent Google";
 
     case "User widget":
-      return text;
+      return "Widżet użytkownika";
 
     case "Choose your package":
-      return text;
-
+      return "Wybierz swoją paczkę";
     case "I'm an 18-year-old UK maths student trying to save money to study Cyber Security at university.":
-      return text;
+      return "Jestem studentem, mam 18 lat, studiuje matematykę w Wielkiej Brytanii, by zaoszczędzić na studia z Cyber Bezpieczeństwa na Uniwesystecie";
     case "If you want access to all features and you don't mind sparing £2, I would be incredibly grateful!":
-      return text;
-
+      return "Jeżeli chcesz uzyskać dostęp do wszystkich funkcji i nie masz nic przeciwko przekazaniu £2, będę zobowiązany!";
     case "Upgrade to pro":
-      return text;
+      return "Ulepsz do wersji PRO";
     case "Support me and access all current and future features!":
-      return text;
-
+      return "Wesprzyj mnie i uzyskaj dostęp do wszystkich bieżących i przyszłych funkcji";
     case "Restore purchase":
-      return text;
+      return "Odnów poprzedni zakup wersji PRO";
     case "Already supported the project?":
-      return text;
-
+      return "Już wsparłeś projekt?";
     case "Stay with free version":
-      return text;
+      return "Pozostań przy wersji bezpłatnej";
     case "Core functionality will always be free":
-      return text;
-
+      return "Podstawowe funkcje zawsze będą darmowe";
     case "One last thing":
-      return text;
-
+      return "Jeszcze jedna rzecz";
     case "I rely completely on user feedback to help make Ceri Launcher better.":
-      return text;
+      return "Bazuje całkowicie na opiniach użytkowników przy usprawnianiu Ceri Launcher";
     case "Please consider joining":
-      return text;
+      return "Rozważ proszę dołączenie";
     case "the Ceri Launcher subreddit":
-      return text;
+      return "do subreddit Ceri Launcher";
     case "or sending me an email with your thoughts.":
-      return text;
+      return "lub wyślij mi maila z Twoimi przemyśleniami";
     case "I'd appreciate it a lot!":
-      return text;
+      return "Będę bardzo wdzięczny!";
     case "Hope you enjoy,":
-      return text;
-
+      return "Mam nadzieję, że Twoja nowa aplikacja główna,";
     case "Tap anywhere":
-      return text;
+      return "Dotknij by kontynuować";
     case "to see your new home":
-      return text;
+      return "spodoba Ci się";
 
     //
     // ----- HOMESCREEN -----
     //
 
     case "Swipe down to search":
-      return text;
+      return "Przesuń w dół by wyszukać";
 
     case "Pull down to search":
-      return text;
+      return "Ściągnij w dół by wyszukać";
 
     case "Long-press an app for options":
-      return text;
+      return "Długo naciśnij w ikonę aplikacji by przejśc do jej ustawień";
 
     case "Close":
-      return text;
+      return "Zamknij";
 
     case "Opens your Ceri Launcher settings":
-      return text;
+      return "Otwiera ustawienia Ceri Launcher";
 
     case "Ceri Launcher Settings":
-      return text;
+      return "Ustawienia Ceri Launcher";
 
     case "Add to favorites":
-      return text;
+      return "Dodaj do ulubionych";
 
     case "Remove from favorites":
-      return text;
+      return "Usuń z ulubionych";
 
     case "Add back to homescreen":
-      return text;
+      return "Dodaj ponownie do ekranu głównego";
 
     case "Hide from homescreen":
-      return text;
+      return "Ukryj z ekranu głównego";
 
     case "Application info":
-      return text;
+      return "Informacje o aplikacji";
 
     case "Uninstall":
-      return text;
+      return "Odinstaluj";
 
     //
     // ----- SEARCH -----
     //
 
     case "Search the web for":
-      return text;
-
+      return "Wyszukaj w sieci";
     case "Search engine:":
-      return text;
+      return "Wyszukiwarka";
 
     //
     // ----- SETTINGS -----
     //
 
     case "Set as home":
-      return text;
+      return "Ustaw jako ekran główny";
     case "Open default apps menu":
-      return text;
+      return "Otwórz menu aplikacji domyślnych";
 
     case "Device settings":
-      return text;
+      return "Ustawienia urządzenia";
     case "Open the standard settings app":
-      return text;
+      return "Otwórz ustawienia urządzenia";
 
     case "Style":
-      return text;
+      return "Styl";
     case "Choose style (All apps, Only favorites, Tray), toggle app dimming":
-      return text;
+      return text 
+"Wybierz styl (Wszystkie aplikacje, Tylko ulubione, dolna tacka), przełączenie przyciemniania aplikacji";
 
     case "Wallpapers":
-      return text;
+      return "Tapety";
     case "Choose wallpaper, apply dim/vignette":
-      return text;
+      return "Wybierz tapetę, zastosuj przyciemnienie/ winietę";
 
     case "Dark mode":
-      return text;
+      return "Tryb ciemny";
     case "True dark mode for OLED devices\n(or #000000 lovers:":
-      return text;
+      return "Prawdziwy tryb ciemny dla urządzeń z ekranami OLED\ lub fanów #000000:";
 
     case "Configure layout":
-      return text;
+      return "Skonfiguruj układ";
     case "Standard grid or honeycomb, 2, 3 or 4 columns, customise icon size and padding":
-      return text;
+      return "Standardowa siatka lub plaster miodu, 2, 3 lub 4 kolumny, zmiana rozstawu i rozmiaru ikon";
 
     case "Icon style":
-      return text;
+      return "Styl ikon";
     case "Icon packs, shape, zoom/crop, shadows":
-      return text;
+      return "Paczki ikon, wygląd, przybliżenie/ przycinanie, cienie";
 
     case "Search options":
-      return text;
+      return "Ustawienia wyszukiwania";
     case "Search icon size, search engine":
-      return text;
+      return "Wielkość ikony wyszukiwania";
 
     case "Configure Ceri widget":
-      return text;
+      return "Konfiguracja Widżetu Ciri";
     case "Choose Ceri widget, configure padding":
-      return text;
+      return "Wybierz widżet Ciri, skonfiguruj położenie;
 
     case "Scrolling animations":
-      return text;
+      return "Animacja przesunięcia";
     case "None, bubble, straight, inwards, outwards, and more":
-      return text;
+      return "brak, bąbelki, prosta, do wewnątrz, na zewnątrz, więcej";
 
     case "Notification dots":
-      return text;
+      return "Kropki notyfikacji";
     case "See indications on your homescreen for pending notifications":
-      return text;
+      return "Oczekujące powiadomienia na ekranie głównym";
 
     case "Gestures":
-      return text;
+      return "Gesty";
     case "Launch apps and actions quickly with side gestures":
-      return text;
+      return "Otwieraj aplikacje, wykonuj szybkie akcje dzięki gestom bocznym";
 
     case "Miscellaneous settings":
-      return text;
+      return "Różne ustawienia";
     case "Warning: Some of these may not have been fully tested":
-      return text;
+      return "Uwaga: Niektóre z tych opcji nie zostały w pełni przetestowane";
 
     case "Performance options":
-      return text;
+      return "Opcje wydajnościowe";
     case "Experimental settings that may improve performance":
-      return text;
+      return "Ustawienia eksperymentalne, które mogą zwiększyć wydajność";
 
     case "About Ceri Launcher":
-      return text;
+      return "O Ceri Launcher";
     case "Version number, developer info":
-      return text;
+      return "Wersja, informacje o developerze";
 
     case "Check for updates":
-      return text;
+      return "Sprawdż aktualizacje";
     case "Check for Ceri Launcher updates on the Play Store":
-      return text;
+      return "Sprawdź aktualizacje Ceri Launcher w Sklepie Play";
 
     case "Support and feedback":
-      return text;
+      return "Wsparcie i opinie";
     case "Go to the Ceri Launcher subreddit":
-      return text;
+      return "Przejdź do Subreddit Ceri Launcher";
 
     case "Email developer":
-      return text;
+      return "Mail do developera";
     case "Have an issue or suggestion? Really enjoying Ceri Launcher? I try to reply within a few hours ::":
-      return text;
+      return "Znalazłeś jakiś błąd, masz sugestię? Podoba Ci się Ceri Launcher? Spróbuję odpowiedzieć w przeciągu paru godzin ::";
 
     case "Change language":
-      return text;
+      return "Zmień język";
     case "Change the language for the Ceri Launcher interface":
-      return text;
+      return "Zmień język dla interfejsu Ceri Launcher";
 
     case "Add or improve translations":
-      return text;
+      return "Dodaj lub popraw tłumaczenie";
     case "Use your language skills to help make Ceri Launcher better. These translations will be added periodically in future updates.":
-      return text;
+      return "Użyj swojej znajomości języka, by usprawnić Ceri Launcher. Translacje zostaną dodane w przyszłych aktualizacjach.";
 
     case "Open source licenses":
-      return text;
+      return "Licencje Open Source";
 
     case "Version":
-      return text; // context: "Version 1.7.5-beta" etc.
+      return text; // context: "Wersja 1.7.5-beta" etc.
     case "Paid — thanks!":
-      return text;
+      return "Opłacone - dziękuję!";
     case "Free version":
-      return text;
+      return "Darmowa wersja";
     case "Your own":
-      return text;
+      return "Własne";
 
     case "Ceri Wallpapers":
-      return text;
+      return "Tapety Ceri";
     case "Android Home Xperience":
-      return text;
+      return "Android Home";
     case "Tiles below 'Your own' will open the respective wallpaper album in your browser.":
-      return text;
+      return "Poniższe kafelki 'Your own' otworzą stosowny album w Twojej przeglądarce";
     case "Vignette/dim":
-      return text;
+      return "Winieta/ Przyciemnienie";
 
     case "Dark mode":
-      return text;
+      return "Tryb ciemny";
     case "Standard":
-      return text;
+      return "Standardowy";
     case "Black (OLED:":
-      return text;
+      return "Czarny (OLED:";
     case "Automatic":
-      return text;
+      return "Automatyczny";
     case "Dark mode off":
-      return text;
+      return "Wyłączenie trybu ciemnego";
     case "Dark mode on":
-      return text;
+      return "Włączenie trybu ciemnego";
     case "Dark mode enables at night":
-      return text;
+      return "Tryb ciemny włączany w nocy";
 
     case "Miscellaneous":
-      return text;
+      return "Różne";
     case "Disable haptics":
-      return text;
+      return "Wyłączenie wibracji przy dotyku";
     case "Show package names in search":
-      return text;
+      return "Pokazuj nazwy aplikacji w wyszukiwarce";
     case "Disable vignette":
-      return text;
+      return "Wyłączenie winiety";
     case "Disable scrolling beyond screen height":
-      return text;
+      return "Wyłączenie przesunięcia poza ekran";
 
     case "2 columns":
-      return text;
+      return "2 kolumny";
     case "3 columns":
-      return text;
+      return "3 kolumny";
     case "Icon size":
-      return text;
+      return "Rozmiar ikon";
     case "Icon padding":
-      return text;
+      return "Rozstawienie ikon";
     case "Standard grid layout":
-      return text;
+      return "Standardowy układ kratki";
     case "Honeycomb layout":
-      return text;
+      return "Układ Plastra Miodu";
     case "Favorites stay at the top":
-      return text;
+      return "Ulubione zawsze na górze";
     case "Just your favorites, nothing else":
-      return text;
+      return "Tylko ulubione, nic więcej";
     case "Automatically show your most used apps only":
-      return text;
+      return "Automatycznie pokazuj najcześciej używane aplikacje";
     case "(experimental:":
-      return text;
+      return "(experymentalne"";
     case "Dim apps that aren't in favorites":
-      return text;
+      return "Przygaszaj aplikacje, które nie są w ulubionych";
 
     case "Nothing set":
-      return text;
+      return "Nic nie ustawiono";
     case "Select package":
-      return text;
+      return "Wybierz paczkę";
     case "Actions will be launchable with gestures in an upcoming update.":
-      return text;
+      return "Akcje będą uruchamiane poprzez gesty w nadchodzących aktualizacjach.";
     case "Search":
-      return text;
+      return "Wyszukaj";
 
     case "No icon packs found.":
-      return text;
+      return "Nie znaleziono paczki ikon";
     case "None (default:":
-      return text;
+      return "Brak (domyślne:";
     case "Select icon pack":
-      return text;
+      return "Wybierz paczkę ikon";
     case "If you have an icon pack installed, choose it here":
-      return text;
+      return "Jeżeli masz zainstalowaną paczkę ikon, wybierz ją tutaj";
 
     case "Corner radius":
-      return text;
+      return "Zaokgrąglenie ikon";
     case "Zoom/crop":
-      return text;
+      return "Przybliżenie/ Przycięcie";
     case "Shadows (off:":
-      return text;
+      return "Cienie (wyłączone:";
     case "Shadows (subtle:":
-      return text;
+      return "Cienie (delikatne:";
     case "Shadows (heavy:":
-      return text;
+      return "Cienie (mocne:";
     case "Shadows (heavier:":
-      return text;
+      return "Cienie (najmocniejsze:";
 
     case "App icon size":
-      return text;
+      return "Rozmiar ikon aplikacji";
 
     case "Animation strength":
-      return text;
+      return "Siła animacji";
     case "disabled":
-      return text;
+      return "wyłączone";
     case "weak":
-      return text;
+      return "słabe";
     case "normal":
-      return text;
+      return "normalne";
     case "strong":
-      return text;
+      return "mocne";
     case "strongest":
-      return text;
+      return "najmocniejsze";
 
     case "These are EXPERIMENTAL settings to try out if you suffer from poor performance or extreme battery drain when using Ceri Launcher.":
-      return text;
+      return "Ustawienia eksperymentalne do wypróbowania przy problemach wydajnościowych lub przy dużym zużyciu baterii w trakcie korzystania z Ceri Launcher.";
     case "If you are not having issues with performance it is recommended that you leave these at their defaults.":
-      return text;
+      return "Jeżeli nie masz problemów z wydajnością, rekomenduje się by nie zmieniać tych ustawień";
     case "Icon render size":
-      return text;
+      return "Rozmiar renderu ikon";
     case "Default is 192. Smaller values should result in lower RAM usage (at the expense of image quality:.":
-      return text;
+      return "Domyślnie jest to 192. Mniejsze wartości powinny równać się mniejszemu zużyciu pamięci RAM (kosztem jakości grafiki:.";
     case "EXAMPLE":
-      return text;
+      return "PRZYKŁAD";
     case "Remove icons out of frame":
-      return text;
+      return "Usunięcie ikon z poza ramki";
     case "Disable antialiasing":
-      return text;
+      return "Wyłączenie antialiasingu";
     case "Force icon caching":
-      return text;
+      return "Wymuś buforowanie ikon";
 
     case "Ceri Launcher utilizes the works of these people:":
-      return text;
+      return "Ceri launcher wykorzystuje prace tych osób:";
 
     case "EXPERIMENTAL.":
-      return text;
+      return "EKSPERYMENTALNE.";
 
     case "Nothing":
-      return text;
+      return "Brak";
     case "Light analog clock widget":
       return text;
     case "by NPKompleet, The CS Guy and Ali Sayed":
-      return text;
+      return "od NPKompleet, The CS Guy i Ali Sayed";
     case "Dark analog clock widget":
       return text;
     case "Digital clock":
@@ -448,53 +441,53 @@ String translate(text) {
     //
 
     case "Monday":
-      return text;
+      return "Poniedziałek";
     case "Tuesday":
-      return text;
+      return "Wtorek";
     case "Wednesday":
-      return text;
+      return "Środa";
     case "Thursday":
-      return text;
+      return "Czwartek";
     case "Friday":
-      return text;
+      return "Piątek";
     case "Saturday":
-      return text;
+      return "Sobota";
     case "Sunday":
-      return text;
+      return "Niedziela";
 
     case "January":
-      return text;
+      return "Styczeń";
     case "February":
-      return text;
+      return "Luty";
     case "March":
-      return text;
+      return "Marzec";
     case "April":
-      return text;
+      return "Kwieceiń";
     case "May":
-      return text;
+      return "Maj";
     case "June":
-      return text;
+      return "Czerwiec";
     case "July":
-      return text;
+      return "Lipiec";
     case "August":
-      return text;
+      return "Sierpień";
     case "September":
-      return text;
+      return "Wrzesień";
     case "October":
-      return text;
+      return "Październik";
     case "November":
-      return text;
+      return "Listopad";
     case "December":
-      return text;
+      return "Grudzień";
 
     case "Good morning":
-      return text;
+      return "Dzień dobry";
     case "Good afternoon":
-      return text;
+      return "Dzień dobry";
     case "Good evening":
-      return text;
+      return "Dobry wieczór";
     case "Sleep well":
-      return text;
+      return "Śpij dobrze";
   }
 
   return text; // return original text if no translation found
