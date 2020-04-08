@@ -94,9 +94,9 @@ String translate(text) {
     case "Choose your package":
       return "अपना पैकेज चुनें";
 
-    case "I'm an 18-year-old UK maths student trying to save money to study Cyber Security at university.":
+    case "I'm a 19-year-old college student from England. Developing this app is a lot of work, but I've made the majority of features free to use.":
       return "मैं एक 18 वर्षीय यूके मैथ्स का छात्र हूँ जो विश्वविद्यालय में साइबर सुरक्षा का अध्ययन करने के लिए पैसे बचाने की कोशिश कर रहा है।";
-    case "If you want access to all features and you don't mind sparing £2, I would be incredibly grateful!":
+    case "If you want access to all features and don't mind sparing £2 to support the project, I'd be incredibly grateful! You can always do this later.":
       return "यदि आप सभी सुविधाओं तक पहुंच चाहते हैं और आप £2 को नहीं छोड़ते हैं, तो मैं अविश्वसनीय रूप से आभारी रहूंगा!";
 
     case "Upgrade to pro":
@@ -248,7 +248,7 @@ String translate(text) {
 
     case "Dark mode":
       return "डार्क मोड";
-    case "True dark mode for OLED devices\n(or #000000 lovers:":
+    case "True dark mode for OLED devices\n(or #000000 lovers)":
       return text;
 
     case "Configure layout":
@@ -313,7 +313,7 @@ String translate(text) {
 
     case "Email developer":
       return "ईमेल डेवलपर";
-    case "Have an issue or suggestion? Really enjoying Ceri Launcher? I try to reply within a few hours ::":
+    case "Have an issue or suggestion? Really enjoying Ceri Launcher? I try to reply within a few hours :)":
       return text;
 
     case "Change language":
@@ -351,7 +351,7 @@ String translate(text) {
       return text;
     case "Standard":
       return text;
-    case "Black (OLED:":
+    case "Black (OLED)":
       return text;
     case "Automatic":
       return text;
@@ -418,13 +418,13 @@ String translate(text) {
       return text;
     case "Zoom/crop":
       return text;
-    case "Shadows (off:":
+    case "Shadows (off)":
       return text;
-    case "Shadows (subtle:":
+    case "Shadows (subtle)":
       return text;
-    case "Shadows (heavy:":
+    case "Shadows (heavy)":
       return text;
-    case "Shadows (heavier:":
+    case "Shadows (heavier)":
       return text;
 
     case "App icon size":
@@ -449,7 +449,7 @@ String translate(text) {
       return text;
     case "Icon render size":
       return text;
-    case "Default is 192. Smaller values should result in lower RAM usage (at the expense of image quality:.":
+    case "Default is 192. Smaller values should result in lower RAM usage (at the expense of image quality).":
       return text;
     case "EXAMPLE":
       return text;

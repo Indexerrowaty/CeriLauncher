@@ -209,8 +209,8 @@ String translate(text) {
 
     case "Dark mode":
       return "Modo oscuro";
-    case "True dark mode for OLED devices\n(or #000000 lovers:":
-      return "Modo oscuro real para pantallas OLED\n(o amantes del #000000:";
+    case "True dark mode for OLED devices\n(or #000000 lovers)":
+      return "Modo oscuro real para pantallas OLED\n(o amantes del #000000)";
 
     case "Configure layout":
       return "Configurar diseño";
@@ -274,8 +274,8 @@ String translate(text) {
 
     case "Email developer":
       return "Enviar correo al desarrollador";
-    case "Have an issue or suggestion? Really enjoying Ceri Launcher? I try to reply within a few hours ::":
-      return "¿Tienes algún problema o sugerencia? ¿Realmente disfrutas de Ceri Launcher? Intentaré responder en unas pocas horas ::";
+    case "Have an issue or suggestion? Really enjoying Ceri Launcher? I try to reply within a few hours ):":
+      return "¿Tienes algún problema o sugerencia? ¿Realmente disfrutas de Ceri Launcher? Intentaré responder en unas pocas horas :)";
 
     case "Change language":
       return "Cambiar idioma";
@@ -312,8 +312,8 @@ String translate(text) {
       return "Modo oscuro";
     case "Standard":
       return "Estándar";
-    case "Black (OLED:":
-      return "Negro (OLED:";
+    case "Black (OLED)":
+      return "Negro (OLED)";
     case "Automatic":
       return "Automático";
     case "Dark mode off":
@@ -368,8 +368,8 @@ String translate(text) {
 
     case "No icon packs found.":
       return "No se han encontrado paquetes de iconos.";
-    case "None (default:":
-      return "Ninguno (por defecto:";
+    case "None (default)":
+      return "Ninguno (por defecto)";
     case "Select icon pack":
       return "Seleccione un paquete de iconos";
     case "If you have an icon pack installed, choose it here":
@@ -379,14 +379,14 @@ String translate(text) {
       return "Radio de las esquinas";
     case "Zoom/crop":
       return "Ampliar/Recortar";
-    case "Shadows (off:":
-      return "Sombreado (desactivado:";
-    case "Shadows (subtle:":
-      return "Sombreado (sutil:";
-    case "Shadows (heavy:":
-      return "Sombreado (intenso:";
-    case "Shadows (heavier:":
-      return "Sombreado (más intenso:";
+    case "Shadows (off)":
+      return "Sombreado (desactivado)";
+    case "Shadows (subtle)":
+      return "Sombreado (sutil)";
+    case "Shadows (heavy)":
+      return "Sombreado (intenso)";
+    case "Shadows (heavier)":
+      return "Sombreado (más intenso)";
 
     case "App icon size":
       return "Tamaño de iconos de app";
@@ -410,8 +410,8 @@ String translate(text) {
       return "Si no tiene problemas con el rendimiento, se recomienda que los deje en sus valores predeterminados.";
     case "Icon render size":
       return "Tamaño de renderizado de iconos";
-    case "Default is 192. Smaller values should result in lower RAM usage (at the expense of image quality:.":
-      return "El valor predeterminado es 192. Valores más pequeños deberían dar como resultado un menor uso de RAM (a expensas de la calidad de imagen:.";
+    case "Default is 192. Smaller values should result in lower RAM usage (at the expense of image quality).":
+      return "El valor predeterminado es 192. Valores más pequeños deberían dar como resultado un menor uso de RAM (a expensas de la calidad de imagen).";
     case "EXAMPLE":
       return "EJEMPLO";
     case "Remove icons out of frame":

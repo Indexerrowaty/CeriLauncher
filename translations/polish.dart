@@ -197,8 +197,7 @@ String translate(text) {
     case "Style":
       return "Styl";
     case "Choose style (All apps, Only favorites, Tray), toggle app dimming":
-      return text 
-"Wybierz styl (Wszystkie aplikacje, Tylko ulubione, dolna tacka), przełączenie przyciemniania aplikacji";
+      return "Wybierz styl (Wszystkie aplikacje, Tylko ulubione, dolna tacka), przełączenie przyciemniania aplikacji";
 
     case "Wallpapers":
       return "Tapety";
@@ -207,8 +206,8 @@ String translate(text) {
 
     case "Dark mode":
       return "Tryb ciemny";
-    case "True dark mode for OLED devices\n(or #000000 lovers:":
-      return "Prawdziwy tryb ciemny dla urządzeń z ekranami OLED\ lub fanów #000000:";
+    case "True dark mode for OLED devices\n(or #000000 lovers)":
+      return "Prawdziwy tryb ciemny dla urządzeń z ekranami OLED\ lub fanów #000000)";
 
     case "Configure layout":
       return "Skonfiguruj układ";
@@ -228,7 +227,7 @@ String translate(text) {
     case "Configure Ceri widget":
       return "Konfiguracja Widżetu Ciri";
     case "Choose Ceri widget, configure padding":
-      return "Wybierz widżet Ciri, skonfiguruj położenie;
+      return "Wybierz widżet Ciri, skonfiguruj położenie";
 
     case "Scrolling animations":
       return "Animacja przesunięcia";
@@ -272,8 +271,9 @@ String translate(text) {
 
     case "Email developer":
       return "Mail do developera";
-    case "Have an issue or suggestion? Really enjoying Ceri Launcher? I try to reply within a few hours ::":
-      return "Znalazłeś jakiś błąd, masz sugestię? Podoba Ci się Ceri Launcher? Spróbuję odpowiedzieć w przeciągu paru godzin ::";
+    case "Have an issue or suggestion? Really enjoying Ceri Launcher? I try to reply within a few hours :)":
+
+      return "Znalazłeś jakiś błąd, masz sugestię? Podoba Ci się Ceri Launcher? Spróbuję odpowiedzieć w przeciągu paru godzin :)";
 
     case "Change language":
       return "Zmień język";
@@ -310,8 +310,8 @@ String translate(text) {
       return "Tryb ciemny";
     case "Standard":
       return "Standardowy";
-    case "Black (OLED:":
-      return "Czarny (OLED:";
+    case "Black (OLED)":
+      return "Czarny (OLED)";
     case "Automatic":
       return "Automatyczny";
     case "Dark mode off":
@@ -350,8 +350,8 @@ String translate(text) {
       return "Tylko ulubione, nic więcej";
     case "Automatically show your most used apps only":
       return "Automatycznie pokazuj najcześciej używane aplikacje";
-    case "(experimental:":
-      return "(experymentalne"";
+    case "(experimental)":
+      return "(experymentalne)";
     case "Dim apps that aren't in favorites":
       return "Przygaszaj aplikacje, które nie są w ulubionych";
 
@@ -366,8 +366,8 @@ String translate(text) {
 
     case "No icon packs found.":
       return "Nie znaleziono paczki ikon";
-    case "None (default:":
-      return "Brak (domyślne:";
+    case "None (default)":
+      return "Brak (domyślne)";
     case "Select icon pack":
       return "Wybierz paczkę ikon";
     case "If you have an icon pack installed, choose it here":
@@ -377,14 +377,14 @@ String translate(text) {
       return "Zaokgrąglenie ikon";
     case "Zoom/crop":
       return "Przybliżenie/ Przycięcie";
-    case "Shadows (off:":
-      return "Cienie (wyłączone:";
-    case "Shadows (subtle:":
-      return "Cienie (delikatne:";
-    case "Shadows (heavy:":
-      return "Cienie (mocne:";
-    case "Shadows (heavier:":
-      return "Cienie (najmocniejsze:";
+    case "Shadows (off)":
+      return "Cienie (wyłączone)";
+    case "Shadows (subtle)":
+      return "Cienie (delikatne)";
+    case "Shadows (heavy)":
+      return "Cienie (mocne)";
+    case "Shadows (heavier)":
+      return "Cienie (najmocniejsze)";
 
     case "App icon size":
       return "Rozmiar ikon aplikacji";
@@ -408,8 +408,8 @@ String translate(text) {
       return "Jeżeli nie masz problemów z wydajnością, rekomenduje się by nie zmieniać tych ustawień";
     case "Icon render size":
       return "Rozmiar renderu ikon";
-    case "Default is 192. Smaller values should result in lower RAM usage (at the expense of image quality:.":
-      return "Domyślnie jest to 192. Mniejsze wartości powinny równać się mniejszemu zużyciu pamięci RAM (kosztem jakości grafiki:.";
+    case "Default is 192. Smaller values should result in lower RAM usage (at the expense of image quality).":
+      return "Domyślnie jest to 192. Mniejsze wartości powinny równać się mniejszemu zużyciu pamięci RAM (kosztem jakości grafiki).";
     case "EXAMPLE":
       return "PRZYKŁAD";
     case "Remove icons out of frame":

@@ -199,14 +199,14 @@ String translate(text) {
       return "Choisir le style (Toutes les applications, Favoris uniquement, Plateau), appliquer l'obscurcissement des applications";
 
     case "Wallpapers":
-      return Fonds d'écran;
+      return "Fonds d'écran";
     case "Choose wallpaper, apply dim/vignette":
       return "Choisir le fond d'écran, appliquer un obscurcissement (vignette)";
 
     case "Dark mode":
       return "Mode foncé";
-    case "True dark mode for OLED devices\n(or #000000 lovers:":
-      return "Veritable mode foncé pour appareils OLED\n(ou les amoureux du #000000:";
+    case "True dark mode for OLED devices\n(or #000000 lovers)":
+      return "Veritable mode foncé pour appareils OLED\n(ou les amoureux du #000000)";
 
     case "Configure layout":
       return "Configurer la disposition";
@@ -270,8 +270,8 @@ String translate(text) {
 
     case "Email developer":
       return "Envoyer un email au développeur";
-    case "Have an issue or suggestion? Really enjoying Ceri Launcher? I try to reply within a few hours ::":
-      return "Vous avez un soucis ou une suggestion ? Vous appréciez vraiment Ceri Launcher ? J'essaie de répondre sous quelques heures ::";
+    case "Have an issue or suggestion? Really enjoying Ceri Launcher? I try to reply within a few hours :)":
+      return "Vous avez un soucis ou une suggestion ? Vous appréciez vraiment Ceri Launcher ? J'essaie de répondre sous quelques heures :)";
 
     case "Change language":
       return "Changer de langue";
@@ -302,14 +302,14 @@ String translate(text) {
     case "Tiles below 'Your own' will open the respective wallpaper album in your browser.":
       return "Les tuiles en dessous de 'Votre bibliothèque' ouvriront l'album de fonds écran respectif dans votre navigateur";
     case "Vignette/dim":
-      return "Vignettage/obscurcissement;
+      return "Vignettage/obscurcissement";
 
     case "Dark mode":
       return "Mode foncé";
     case "Standard":
       return "Standard";
-    case "Black (OLED:":
-      return "Noir (OLED:";
+    case "Black (OLED)":
+      return "Noir (OLED)";
     case "Automatic":
       return "Automatique";
     case "Dark mode off":
@@ -349,9 +349,9 @@ String translate(text) {
     case "Automatically show your most used apps only":
       return "Montrer automatiquement vos applications les plus utilisées uniquement";
     case "(experimental:":
-      return "(expérimental:";
+      return "(expérimental)";
     case "Dim apps that aren't in favorites":
-      return "Obscurcir les applications qui ne sont pas dans les favoris"
+      return "Obscurcir les applications qui ne sont pas dans les favoris";
 
     case "Nothing set":
       return "Rien de paramétré";
@@ -364,25 +364,25 @@ String translate(text) {
 
     case "No icon packs found.":
       return "Aucun pack d'icônes trouvé";
-    case "None (default:":
-      return "Aucun (par défaut :";
+    case "None (default)":
+      return "Aucun (par défaut)";
     case "Select icon pack":
       return "Sélectionner le pack d'icônes";
     case "If you have an icon pack installed, choose it here":
       return "Si vous avez un pack d'icônes installé, choisissez-le ici";
 
     case "Corner radius":
-      return "Rayon de coin" 
+      return "Rayon de coin";
     case "Zoom/crop":
       return "Zoom/rognage";
-    case "Shadows (off:":
-      return "Ombres (désactivé :";
+    case "Shadows (off)":
+      return "Ombres (désactivé)";
     case "Shadows (subtle:":
-      return "Ombres (subtil:";
+      return "Ombres (subtil)";
     case "Shadows (heavy:":
-      return "Ombres (dense:";
+      return "Ombres (dens)";
     case "Shadows (heavier:":
-      return "Ombres (plus dense:";
+      return "Ombres (plus dense)";
 
     case "App icon size":
       return "Taille d'icône d'application";
@@ -406,7 +406,7 @@ String translate(text) {
       return "Si vous n'avez pas de soucis de performances, il est recommandé que vous laissiez ces paramètres dans leur configuration initiale.";
     case "Icon render size":
       return "Taille de rendu des icônes";
-    case "Default is 192. Smaller values should result in lower RAM usage (at the expense of image quality:.":
+    case "Default is 192. Smaller values should result in lower RAM usage (at the expense of image quality).":
       return "La taille par défaut est 192. Des valeurs plus petites devraient résulter en un usage en RAM plus bas (au dépend de la qualité d'image).";
     case "EXAMPLE":
       return "EXEMPLE";
@@ -418,13 +418,13 @@ String translate(text) {
       return "Forcer la mise en cache des icônes";
 
     case "Ceri Launcher utilizes the works of these people:":
-      return "Ceri Launcher utilise des travaux de ces personnes :";
+      return "Ceri Launcher utilise des travaux de ces personnes:";
 
     case "EXPERIMENTAL.":
       return "EXPÉRIMENTAL";
 
     case "Nothing":
-      return "Rien"
+      return "Rien";
     case "Light analog clock widget":
       return "Widget horloge analogique clair";
     case "by NPKompleet, The CS Guy and Ali Sayed":

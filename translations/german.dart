@@ -186,7 +186,7 @@ String translate(text) {
       return "Suche im Internet nach";
 
     case "Search engine:":
-      return "Suchmaschine";
+      return "Suchmaschine:";
 
     //
     // ----- SETTINGS -----
@@ -279,8 +279,8 @@ String translate(text) {
 
     case "Email developer":
       return "Email den Entwickler";
-    case "Have an issue or suggestion? Really enjoying Ceri Launcher? I try to reply within a few hours ::":
-      return "Du hast ein Problem oder einen Vorschlag? Du bist sehr zufrieden mit dem Ceri Launcher? Ich antworte innerhalb von einigen Stunden ::";
+    case "Have an issue or suggestion? Really enjoying Ceri Launcher? I try to reply within a few hours :)":
+      return "Du hast ein Problem oder einen Vorschlag? Du bist sehr zufrieden mit dem Ceri Launcher? Ich antworte innerhalb von einigen Stunden :)";
 
     case "Change language":
       return "Sprache wechseln";
@@ -317,8 +317,8 @@ String translate(text) {
       return "Dunkler Modus";
     case "Standard":
       return "Standard";
-    case "Black (OLED:":
-      return "Schwarz (OLED:";
+    case "Black (OLED)":
+      return "Schwarz (OLED)";
     case "Automatic":
       return "Automatisch";
     case "Dark mode off":
@@ -357,8 +357,8 @@ String translate(text) {
       return "Nur Favoriten, nichts anderes";
     case "Automatically show your most used apps only":
       return "Zeige automatisch nur deine meist genutzten Apps";
-    case "(experimental:":
-      return "(Experimentell:";
+    case "(experimental)":
+      return "(Experimentell)";
     case "Dim apps that aren't in favorites":
       return "Verdunkle Apps, die nicht Favoriten sind";
 
@@ -373,8 +373,8 @@ String translate(text) {
 
     case "No icon packs found.":
       return "Keine Iconpakete gefunden";
-    case "None (default:":
-      return "Keins (Standard:";
+    case "None (default)":
+      return "Keins (Standard)";
     case "Select icon pack":
       return "Wähle Iconpaket";
     case "If you have an icon pack installed, choose it here":
@@ -384,14 +384,14 @@ String translate(text) {
       return "Eckenradius";
     case "Zoom/crop":
       return "Vergrößerung/Ausschnitt";
-    case "Shadows (off:":
-      return "Schatten (aus:";
-    case "Shadows (subtle:":
-      return "Schatten (einfach:";
-    case "Shadows (heavy:":
-      return "Schatten (schwer:";
-    case "Shadows (heavier:":
-      return "Schatten (sehr schwer:";
+    case "Shadows (off)":
+      return "Schatten (aus)";
+    case "Shadows (subtle)":
+      return "Schatten (einfach)";
+    case "Shadows (heavy)":
+      return "Schatten (schwer)";
+    case "Shadows (heavier)":
+      return "Schatten (sehr schwer)";
 
     case "App icon size":
       return "App Icon Größe";
@@ -415,8 +415,8 @@ String translate(text) {
       return "Wenn du keine Probleme mit der Leistung hast, solltest du die Einstellungen im Standard belassen.";
     case "Icon render size":
       return "Icon Rendergröße";
-    case "Default is 192. Smaller values should result in lower RAM usage (at the expense of image quality:.":
-      return "Standard ist 192. Kleinere Werte sollten weniger RAM Verbrauch bedeuten (auf Kosten der Bildqualität:.";
+    case "Default is 192. Smaller values should result in lower RAM usage (at the expense of image quality).":
+      return "Standard ist 192. Kleinere Werte sollten weniger RAM Verbrauch bedeuten (auf Kosten der Bildqualität).";
     case "EXAMPLE":
       return "BEISPIEL";
     case "Remove icons out of frame":
