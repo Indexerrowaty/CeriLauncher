@@ -11,7 +11,7 @@ import 'polish.dart' as polish;
 // Only languages with a reasonable amount of translations should be included here
 List<String> supportedLanguages = [
   "English", //         English (US)
-  //"Deutsch", //       German
+  "Deutsch", //       	German
   "Français", //        French
   "इंडिया", //            Hindi
   "Español", //         Spanish
