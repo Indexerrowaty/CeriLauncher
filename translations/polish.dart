@@ -14,7 +14,7 @@ String translate(text) {
     case "loading preferences":
       return "ładowanie preferencji";
     case "loading settings":
-      return "ładowanie ustawien";
+      return "ładowanie ustawień";
 
     //
     // ----- SETUP -----
@@ -50,7 +50,7 @@ String translate(text) {
       return "Tylko ulubione";
 
     case "Tray":
-      return "Dolna Tacka";
+      return "Tacka";
 
     case "You can always change this later":
       return "Zawsze możesz to później zmienić";
@@ -65,22 +65,22 @@ String translate(text) {
       return "Wybierz układ";
 
     case "Grid":
-      return "Krata";
+      return "Siatka";
 
     case "Honeycomb":
       return "Plaster miodu";
 
     case "Choose your Ceri widget":
-      return "Wybierz swój widżet Ceri";
+      return "Wybierz swój Ceri widżet";
 
     case "Choose Ceri widget":
-      return "Wybierz widżet Ceri";
+      return "Wybierz Ceri widżet";
 
     case "None":
       return "Brak";
 
     case "Light analog":
-      return "Lekki analogowy";
+      return "Jasny analogowy";
 
     case "Dark analog":
       return "Ciemny analogowy";
@@ -89,7 +89,7 @@ String translate(text) {
       return "Cyfrowy";
 
     case "Assistant":
-      return "Asystent Google";
+      return "Asystent";
 
     case "User widget":
       return "Widżet użytkownika";
@@ -97,15 +97,15 @@ String translate(text) {
     case "Choose your package":
       return "Wybierz swoją paczkę";
     case "I'm an 18-year-old UK maths student trying to save money to study Cyber Security at university.":
-      return "Jestem studentem, mam 18 lat, studiuje matematykę w Wielkiej Brytanii, by zaoszczędzić na studia z Cyber Bezpieczeństwa na Uniwesystecie";
+      return "Jestem studentem, mam 18 lat, studiuje matematykę w Wielkiej Brytanii próbującym zaoszczędzić na studia z Cyber Bezpieczeństwa na uniwesystecie";
     case "If you want access to all features and you don't mind sparing £2, I would be incredibly grateful!":
-      return "Jeżeli chcesz uzyskać dostęp do wszystkich funkcji i nie masz nic przeciwko przekazaniu £2, będę zobowiązany!";
+      return "Jeżeli chcesz uzyskać dostęp do wszystkich funkcji i nie masz nic przeciwko przekazaniu mi £2, będę bardzo wdzięczny!";
     case "Upgrade to pro":
       return "Ulepsz do wersji PRO";
     case "Support me and access all current and future features!":
       return "Wesprzyj mnie i uzyskaj dostęp do wszystkich bieżących i przyszłych funkcji";
     case "Restore purchase":
-      return "Odnów poprzedni zakup wersji PRO";
+      return "Przywróć zakup";
     case "Already supported the project?":
       return "Już wsparłeś projekt?";
     case "Stay with free version":
@@ -115,34 +115,34 @@ String translate(text) {
     case "One last thing":
       return "Jeszcze jedna rzecz";
     case "I rely completely on user feedback to help make Ceri Launcher better.":
-      return "Bazuje całkowicie na opiniach użytkowników przy usprawnianiu Ceri Launcher";
+      return "Bazuje całkowicie na opiniach użytkowników aby uczynić Ceri Launcher lepszym.";
     case "Please consider joining":
       return "Rozważ proszę dołączenie";
     case "the Ceri Launcher subreddit":
-      return "do subreddit Ceri Launcher";
+      return "do subreddita Ceri Launcher";
     case "or sending me an email with your thoughts.":
-      return "lub wyślij mi maila z Twoimi przemyśleniami";
+      return "albi wysłania mi maila z Twoimi przemyśleniami na temat Ceri Launchera";
     case "I'd appreciate it a lot!":
       return "Będę bardzo wdzięczny!";
     case "Hope you enjoy,":
-      return "Mam nadzieję, że Twoja nowa aplikacja główna,";
+      return "Mam nadzieję, że Ci się podoba,";
     case "Tap anywhere":
       return "Dotknij by kontynuować";
     case "to see your new home":
-      return "spodoba Ci się";
+      return "aby zobaczyć swój nowy ekran główny";
 
     //
     // ----- HOMESCREEN -----
     //
 
     case "Swipe down to search":
-      return "Przesuń w dół by wyszukać";
+      return "Przesuń w dół by szukać";
 
     case "Pull down to search":
-      return "Ściągnij w dół by wyszukać";
+      return "Przeciągnij w dół by szukać";
 
     case "Long-press an app for options":
-      return "Długo naciśnij w ikonę aplikacji by przejśc do jej ustawień";
+      return "Przytrzymaj ikonę aplikacji by przejść do ustawień";
 
     case "Close":
       return "Zamknij";
@@ -176,9 +176,9 @@ String translate(text) {
     //
 
     case "Search the web for":
-      return "Wyszukaj w sieci";
+      return "Wyszukaj w sieci:";
     case "Search engine:":
-      return "Wyszukiwarka";
+      return "Wyszukiwarka:";
 
     //
     // ----- SETTINGS -----
@@ -197,17 +197,17 @@ String translate(text) {
     case "Style":
       return "Styl";
     case "Choose style (All apps, Only favorites, Tray), toggle app dimming":
-      return "Wybierz styl (Wszystkie aplikacje, Tylko ulubione, dolna tacka), przełączenie przyciemniania aplikacji";
+      return "Wybierz styl (Wszystkie aplikacje, Tylko ulubione, Tacka), przełączenie przyciemniania aplikacji";
 
     case "Wallpapers":
       return "Tapety";
     case "Choose wallpaper, apply dim/vignette":
-      return "Wybierz tapetę, zastosuj przyciemnienie/ winietę";
+      return "Wybierz tapetę, zastosuj przyciemnienie/winietę";
 
     case "Dark mode":
       return "Tryb ciemny";
     case "True dark mode for OLED devices\n(or #000000 lovers)":
-      return "Prawdziwy tryb ciemny dla urządzeń z ekranami OLED\ lub fanów #000000)";
+      return "Prawdziwy tryb ciemny dla urządzeń z ekranami OLED\n(lub fanów #000000)";
 
     case "Configure layout":
       return "Skonfiguruj układ";
